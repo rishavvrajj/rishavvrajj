@@ -6,12 +6,6 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?&style=flat-square&logo=tableau&logoColor=white)](YOUR_TABLEAU_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?&style=flat-square&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
 
-📞 +91 9220 570 142 &nbsp; | &nbsp; 📧 rishav5raj3@gmail.com
-
----
-
-## 🧑‍💻 About Me
-
 I am a **Business Analyst** specializing in data visualization, ETL, and data modeling. I transform raw data into actionable insights using Python, SQL, and Tableau, and I contribute open-source analytics solutions for the community. Passionate about making analytics accessible for everyone—especially organizations that can’t afford a full-time analyst.
 
 ---
@@ -34,22 +28,6 @@ I am a **Business Analyst** specializing in data visualization, ETL, and data mo
   Interactive dashboards (HR, Sales, Customer Analytics) with drill-down filters and KPI tracking.
 - **[KPI Analytics Scripts](#)**  
   Reproducible Python & SQL scripts for automated KPI and business intelligence reporting.
-
----
-
-## 🌍 Community & Open-Source
-
-- Tableau Community Projects Contributor (2025–Present)  
-  Built and published dashboards using real-world datasets for global data and analytics initiatives.
-- Open to collaboration, code reviews, analytics mentorship, and new open-source projects.
-
----
-
-## 🏅 Credentials & Achievements
-
-- **MIT Open Learning** — AI & ML: Coding labs on supervised/reinforcement learning, model evaluation.
-- **Deloitte Australia** — Data Analytics Simulation (2025): KPI analysis, business recommendations.
-- **Y Combinator Startup School** — Founder Track: MVP design, metrics, user research.
 
 ---
 
