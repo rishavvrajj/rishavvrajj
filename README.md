@@ -20,17 +20,6 @@ I am a **Business Analyst** specializing in data visualization, ETL, and data mo
 
 ---
 
-## 📦 Featured Projects
-
-- **[Data Warehouse ETL](#)**  
-  End-to-end data warehouse using SQL Server (bronze-silver-gold), ETL pipelines, and business reporting.
-- **[Tableau Dashboards](#)**  
-  Interactive dashboards (HR, Sales, Customer Analytics) with drill-down filters and KPI tracking.
-- **[KPI Analytics Scripts](#)**  
-  Reproducible Python & SQL scripts for automated KPI and business intelligence reporting.
-
----
-
 ## 🚀 What's Next
 
 - 💡 Shipping new notebooks, dashboards, and automation scripts.
