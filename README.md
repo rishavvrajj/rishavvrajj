@@ -20,12 +20,4 @@ I am a **Business Analyst** specializing in data visualization, ETL, and data mo
 
 ---
 
-## 🚀 What's Next
-
-- 💡 Shipping new notebooks, dashboards, and automation scripts.
-- 🤝 Open to GitHub collaborations, contributions, and data project ideas.
-- 📬 Connect via [LinkedIn](https://www.linkedin.com/in/rishav-raj-55694734b/), checkout [Tableau Public](https://public.tableau.com/app/profile/rishav.raj5987/vizzes), [Kaggle](https://www.kaggle.com/rishavvrajj), or email me.
-
----
-
 _**Let’s connect, collaborate, and grow together in the open-source data community!**_
