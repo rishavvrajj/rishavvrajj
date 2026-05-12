@@ -24,8 +24,10 @@
 ### 💻 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,threejs,nextjs,nodejs,postgres,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,threejs,nodejs,express,postgres,mongodb,prisma,git,github,postman,figma" />
 </p>
+
+<!-- python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,linux,aws,gcp,githubactions,terraform,redis,postman -->
 
 ---
 
