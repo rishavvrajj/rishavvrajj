@@ -24,7 +24,7 @@
 ### 💻 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,threejs,nextjs,nodejs,postgres,git,github,figma" />
 </p>
 
 ---
