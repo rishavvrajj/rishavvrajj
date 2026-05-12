@@ -31,7 +31,7 @@
 
 ### 🎲 Outside work
 
-☕ Coffee · ♟️ Chess · ✏️ Sketching and creating my own artwork (often feeding into my product and UI ideas)
+☕️ Brewing coffee · ♟️ Grinding chess puzzles · 🎧 Curating playlists · ✏️ Sketching and visual experiments
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=120&section=footer" />
