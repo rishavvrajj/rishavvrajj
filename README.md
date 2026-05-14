@@ -1,12 +1,5 @@
-<!-- Hero banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=36&animation=fadeIn" />
-</p>
-
 <!-- Role + badges -->
-<p align="center">
-  <b>Business Analyst | Product Designer | Full‑stack &amp; AI Engineer</b>
-</p>
+### Business Analyst · Product Designer · Full‑stack & AI Engineer
 
 ---
 
@@ -14,10 +7,10 @@
 
 **Problem → Idea → Design → Build → Measure**
 
-- Clarify the problem and write simple solution ideas  
-- Design quick flows + clean, minimal UI in Figma  
-- Build full‑stack with Next.js, React, TypeScript, Node, SQL  
-- Measure usage, learn from data and users, and ship the next version  
+- Turn user and business requirements into sharp problem statements and testable solution hypotheses.
+- Design fast: translate ideas into clear user journeys, Figma flows, and **minimal** interfaces.
+- Ship features quickly while keeping the architecture clean, maintainable, and scalable.
+- Validate products with analytics, A/B tests, and tight experimentation loops.
 
 ---
 
@@ -33,8 +26,4 @@
 
 ### 🎲 Outside work
 
-☕️ Brewing coffee · ♟️ Grinding chess puzzles · 🎧 Curating playlists · ✏️ Sketching and visual experiments
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=120&section=footer" />
-</p>
+☕️ Brewing coffee · ♟️ Chess puzzles & rapid games · 🎧 Curating playlists · ✏️ Sketching and visual experiments
