@@ -17,7 +17,7 @@
 ### 💻 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,threejs,nodejs,express,postgres,mongodb,prisma,git,github,postman,figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,tailwind,nextjs,threejs,nodejs,express,postgres,mongodb,prisma,trpc,git,github,figma" />
 </p>
 
 <!-- python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,linux,aws,gcp,githubactions,terraform,redis,postman -->
