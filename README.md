@@ -17,7 +17,7 @@
 ### 💻 Technologies
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,tailwind,nextjs,threejs,nodejs,express,postgres,mongodb,prisma,trpc,git,github,figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,tailwind,nodejs,express,postgres,mongodb,prisma,trpc,docker,git,github,figma,postman,python,pandas,numpy,matplotlib,seaborn,jupyter,pytorch,tensorflow,sklearn,opencv,tableau,mlflow,flask,fastapi,claude" />
 </p>
 
 <!-- python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,linux,aws,gcp,githubactions,terraform,redis,postman -->
