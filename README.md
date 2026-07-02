@@ -1,9 +1,7 @@
 <!-- Role + badges -->
-### Business Analyst · Product Designer · Full‑stack & AI Engineer
+### Business Analyst | Product Designer | Full‑stack & AI Engineer
 
 ---
-
-### 🧠 Product mindset
 
 **Problem → Idea → Design → Build → Measure**
 
@@ -14,8 +12,6 @@
 
 ---
 
-### 💻 Technologies
-
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,tailwind,gsap,threejs,postgres,mongodb,prisma,trpc,docker,git,github,figma,postman,python,pandas,numpy,matplotlib,seaborn,jupyter,pytorch,tensorflow,sklearn,opencv,tableau,mlflow,flask,fastapi,claude&theme=light" />
 </p>
@@ -23,7 +19,5 @@
 <!-- python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,linux,aws,gcp,githubactions,terraform,redis,postman -->
 
 ---
-
-### 🎲 Outside work
 
 ☕️ Brewing coffee · ♟️ Chess puzzles & rapid games · 🎧 Curating playlists · ✏️ Sketching and visual experiments
