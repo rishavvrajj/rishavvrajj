@@ -13,11 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,tailwind,gsap,threejs,postgres,mongodb,prisma,trpc,docker,git,github,figma,postman,python,pandas,numpy,matplotlib,seaborn,jupyter,pytorch,tensorflow,sklearn,opencv,tableau,mlflow,flask,fastapi,claude&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,tailwind,gsap,redis,websocket,prisma,mongodb,trpc,docker,git,github,figma,postman&theme=light" />
 </p>
 
-<!-- python,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,linux,aws,gcp,githubactions,terraform,redis,postman -->
+<!-- ,python,pandas,numpy,matplotlib,seaborn,jupyter,pytorch,tensorflow,sklearn,opencv,tableau,mlflow,flask,fastapi,claude -->
 
----
-
-☕️ Brewing coffee · ♟️ Chess puzzles & rapid games · 🎧 Curating playlists · ✏️ Sketching and visual experiments
