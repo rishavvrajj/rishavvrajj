@@ -1,14 +1,14 @@
 <!-- Role + badges -->
-### Business Analyst | Product Designer | Full‑stack & AI Engineer
+### Technical Business Analyst | Product Designer | Full-stack & Software Engineer
 
 ---
 
-**Problem → Idea → Design → Build → Measure**
+**Elicitation → Analysis → Design → Build → Measure**
 
-- Turn user and business requirements into sharp problem statements and testable solution hypotheses.
-- Design fast: translate ideas into clear user journeys, Figma flows, and **minimal** interfaces.
-- Ship features quickly while keeping the architecture clean, maintainable, and scalable.
-- Validate products with analytics, A/B tests, and tight experimentation loops.
+- Elicit user and business requirements, then convert them into clear problem statements and hypotheses.
+- Analyze workflows, scope, dependencies, risks, and edge cases to shape practical product direction.
+- Design with user journeys, low-fidelity wireframes, interaction patterns, and minimal interfaces.
+- Build scalable features while keeping the architecture clean, maintainable, and extensible.
 
 ---
 
